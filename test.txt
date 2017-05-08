@@ -1,3 +1,3 @@
-Hello Git. 123456789
+Hello Git. Hello world
 
 New different commit.
